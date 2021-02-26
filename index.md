@@ -1,6 +1,6 @@
-## Hello, I'm Deepti :wave:
+## Hello, I'm Deepti
 
-### I am currently working as a Senior Quality Analyst :computer: and have 7+ years of experience in automation testing.
+### I am currently working as a Senior Quality Analyst and have 7+ years of experience in automation testing.
   
 ### Profile Summary
 * Skilled in development of Automation test scripts using Selenium WebDriver with extensive exposure to frameworks such as TestNG.
